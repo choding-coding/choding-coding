@@ -4,7 +4,7 @@
 <div align = "center">
 
 <br/>
-<h3>Lucas' Portfolio 🥳</h3><b>
+<h3>Lucas' Portfolio</h3><b>
 Hello, I'm Giju (Lucas)<br>
 
 
